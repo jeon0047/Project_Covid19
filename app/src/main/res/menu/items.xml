@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/icons8home100"
+        app:showAsAction="always"
+        android:orderInCategory="30"
+        />
+    <item android:id="@+id/help"
+        android:title="Help"
+        android:icon="@drawable/icons8help60"
+        app:showAsAction="always"
+        android:orderInCategory="30"
+        />
+
+</menu>
