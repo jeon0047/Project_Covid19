@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">프로젝트_코비드19</string>
+    <string name="query">문의</string>
+    <string name="query_b">자료조회 - covid19api</string>
+</resources>
